@@ -1,4 +1,3 @@
-// Can see these offline
 const FILES_TO_CACHE = [
     "/",
     "/index.html",
